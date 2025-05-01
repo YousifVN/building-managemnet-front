@@ -52,8 +52,8 @@ You can customize the buttons and their actions based on your project requiremen
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd my-building-managemnet-front
+   git clone https://github.com/YousifVN/building-managemnet-front
+   cd building-managemnet-front
    ```
 2. Install dependencies:
    ```bash
